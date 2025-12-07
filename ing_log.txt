@@ -1,0 +1,1017 @@
+Epoch 1/40
+--------------------------------------------------
+  Batch 0/767 (0.0%), Loss: 4.6966, LR: 2.00e-05, Batch Time: 5.63s
+  Batch 10/767 (1.3%), Loss: 4.6698, LR: 2.00e-05, Batch Time: 0.36s
+  Batch 20/767 (2.6%), Loss: 5.0490, LR: 2.00e-05, Batch Time: 0.34s
+  Batch 30/767 (3.9%), Loss: 4.7385, LR: 2.00e-05, Batch Time: 0.36s
+  Batch 40/767 (5.2%), Loss: 4.7809, LR: 2.00e-05, Batch Time: 0.34s
+  Batch 50/767 (6.5%), Loss: 4.7134, LR: 2.00e-05, Batch Time: 0.36s
+  Batch 60/767 (7.8%), Loss: 4.6267, LR: 2.00e-05, Batch Time: 0.34s
+  Batch 70/767 (9.1%), Loss: 4.7857, LR: 2.00e-05, Batch Time: 0.36s
+  Batch 80/767 (10.4%), Loss: 4.8191, LR: 2.00e-05, Batch Time: 0.36s
+  Batch 90/767 (11.7%), Loss: 4.7673, LR: 2.00e-05, Batch Time: 0.34s
+  Batch 100/767 (13.0%), Loss: 4.9246, LR: 2.00e-05, Batch Time: 0.36s
+  Batch 110/767 (14.3%), Loss: 4.8278, LR: 2.00e-05, Batch Time: 0.33s
+  Batch 120/767 (15.6%), Loss: 4.7396, LR: 2.00e-05, Batch Time: 0.36s
+  Batch 130/767 (16.9%), Loss: 4.7840, LR: 2.00e-05, Batch Time: 0.34s
+  Batch 140/767 (18.3%), Loss: 4.7743, LR: 2.00e-05, Batch Time: 0.36s
+  Batch 150/767 (19.6%), Loss: 4.7874, LR: 2.00e-05, Batch Time: 0.36s
+  Batch 160/767 (20.9%), Loss: 4.6400, LR: 2.00e-05, Batch Time: 0.34s
+  Batch 170/767 (22.2%), Loss: 4.7524, LR: 2.00e-05, Batch Time: 0.36s
+  Batch 180/767 (23.5%), Loss: 4.6716, LR: 2.00e-05, Batch Time: 0.35s
+  Batch 190/767 (24.8%), Loss: 4.6100, LR: 2.00e-05, Batch Time: 0.35s
+  Batch 200/767 (26.1%), Loss: 4.5575, LR: 2.00e-05, Batch Time: 0.34s
+  Batch 210/767 (27.4%), Loss: 4.6005, LR: 2.00e-05, Batch Time: 0.36s
+  Batch 220/767 (28.7%), Loss: 4.6226, LR: 2.00e-05, Batch Time: 0.36s
+  Batch 230/767 (30.0%), Loss: 4.6541, LR: 2.00e-05, Batch Time: 0.36s
+  Batch 240/767 (31.3%), Loss: 4.3897, LR: 2.00e-05, Batch Time: 0.36s
+  Batch 250/767 (32.6%), Loss: 4.5881, LR: 2.00e-05, Batch Time: 0.34s
+  Batch 260/767 (33.9%), Loss: 4.5486, LR: 2.00e-05, Batch Time: 0.36s
+  Batch 270/767 (35.2%), Loss: 4.6203, LR: 2.00e-05, Batch Time: 0.34s
+  Batch 280/767 (36.5%), Loss: 4.7221, LR: 2.00e-05, Batch Time: 0.36s
+  Batch 290/767 (37.8%), Loss: 4.7213, LR: 2.00e-05, Batch Time: 0.34s
+  Batch 300/767 (39.1%), Loss: 4.6373, LR: 2.00e-05, Batch Time: 0.36s
+  Batch 310/767 (40.4%), Loss: 4.6308, LR: 2.00e-05, Batch Time: 0.36s
+  Batch 320/767 (41.7%), Loss: 4.4366, LR: 2.00e-05, Batch Time: 0.35s
+  Batch 330/767 (43.0%), Loss: 4.4881, LR: 2.00e-05, Batch Time: 0.36s
+  Batch 340/767 (44.3%), Loss: 4.7487, LR: 2.00e-05, Batch Time: 0.35s
+  Batch 350/767 (45.6%), Loss: 4.6509, LR: 2.00e-05, Batch Time: 0.36s
+  Batch 360/767 (46.9%), Loss: 4.5455, LR: 2.00e-05, Batch Time: 0.35s
+  Batch 370/767 (48.2%), Loss: 4.3750, LR: 2.00e-05, Batch Time: 0.37s
+  Batch 380/767 (49.5%), Loss: 4.6176, LR: 2.00e-05, Batch Time: 0.36s
+  Batch 390/767 (50.8%), Loss: 4.6835, LR: 2.00e-05, Batch Time: 0.33s
+  Batch 400/767 (52.2%), Loss: 4.6292, LR: 2.00e-05, Batch Time: 0.36s
+  Batch 410/767 (53.5%), Loss: 4.3758, LR: 2.00e-05, Batch Time: 0.37s
+  Batch 420/767 (54.8%), Loss: 4.4604, LR: 2.00e-05, Batch Time: 0.34s
+  Batch 430/767 (56.1%), Loss: 4.5822, LR: 2.00e-05, Batch Time: 0.37s
+  Batch 440/767 (57.4%), Loss: 4.6882, LR: 2.00e-05, Batch Time: 0.37s
+  Batch 450/767 (58.7%), Loss: 4.3068, LR: 2.00e-05, Batch Time: 0.34s
+  Batch 460/767 (60.0%), Loss: 4.3621, LR: 2.00e-05, Batch Time: 0.36s
+  Batch 470/767 (61.3%), Loss: 4.6957, LR: 2.00e-05, Batch Time: 0.34s
+  Batch 480/767 (62.6%), Loss: 4.3819, LR: 2.00e-05, Batch Time: 0.36s
+  Batch 490/767 (63.9%), Loss: 4.3858, LR: 2.00e-05, Batch Time: 0.36s
+  Batch 500/767 (65.2%), Loss: 4.2318, LR: 2.00e-05, Batch Time: 0.48s
+  Batch 510/767 (66.5%), Loss: 4.7847, LR: 2.00e-05, Batch Time: 0.36s
+  Batch 520/767 (67.8%), Loss: 4.2934, LR: 2.00e-05, Batch Time: 0.35s
+  Batch 530/767 (69.1%), Loss: 4.3919, LR: 2.00e-05, Batch Time: 0.38s
+  Batch 540/767 (70.4%), Loss: 4.5981, LR: 2.00e-05, Batch Time: 0.36s
+  Batch 550/767 (71.7%), Loss: 4.3292, LR: 2.00e-05, Batch Time: 0.34s
+  Batch 560/767 (73.0%), Loss: 4.6878, LR: 2.00e-05, Batch Time: 0.35s
+  Batch 570/767 (74.3%), Loss: 4.4288, LR: 2.00e-05, Batch Time: 0.36s
+  Batch 580/767 (75.6%), Loss: 4.2607, LR: 2.00e-05, Batch Time: 0.35s
+  Batch 590/767 (76.9%), Loss: 4.3220, LR: 2.00e-05, Batch Time: 0.38s
+  Batch 600/767 (78.2%), Loss: 4.2162, LR: 2.00e-05, Batch Time: 0.35s
+  Batch 610/767 (79.5%), Loss: 4.2090, LR: 2.00e-05, Batch Time: 0.37s
+  Batch 620/767 (80.8%), Loss: 4.1646, LR: 2.00e-05, Batch Time: 0.36s
+  Batch 630/767 (82.1%), Loss: 4.4451, LR: 2.00e-05, Batch Time: 0.33s
+  Batch 640/767 (83.4%), Loss: 4.1168, LR: 2.00e-05, Batch Time: 0.36s
+  Batch 650/767 (84.7%), Loss: 4.3150, LR: 2.00e-05, Batch Time: 0.33s
+  Batch 660/767 (86.0%), Loss: 4.2604, LR: 2.00e-05, Batch Time: 0.34s
+  Batch 670/767 (87.4%), Loss: 3.8111, LR: 2.00e-05, Batch Time: 0.36s
+  Batch 680/767 (88.7%), Loss: 3.8003, LR: 2.00e-05, Batch Time: 0.34s
+  Batch 690/767 (90.0%), Loss: 3.9569, LR: 2.00e-05, Batch Time: 0.36s
+  Batch 700/767 (91.3%), Loss: 4.2977, LR: 2.00e-05, Batch Time: 0.36s
+  Batch 710/767 (92.6%), Loss: 4.4933, LR: 2.00e-05, Batch Time: 0.36s
+  Batch 720/767 (93.9%), Loss: 4.4273, LR: 2.00e-05, Batch Time: 0.36s
+  Batch 730/767 (95.2%), Loss: 3.9841, LR: 2.00e-05, Batch Time: 0.36s
+  Batch 740/767 (96.5%), Loss: 3.4058, LR: 2.00e-05, Batch Time: 0.39s
+  Batch 750/767 (97.8%), Loss: 4.3455, LR: 2.00e-05, Batch Time: 0.36s
+  Batch 760/767 (99.1%), Loss: 3.7657, LR: 2.00e-05, Batch Time: 0.37s
+
+Epoch 1 完成:
+  训练损失: 4.5013
+  验证损失: 4.0643
+  当前学习率: 1.00e-05
+  Epoch时间: 4.7分钟
+  总训练时间: 0小时4分钟
+  验证指标:
+    stance_accuracy: 0.7680
+    stance_f1: 0.7313
+    harmfulness_accuracy: 0.5720
+    harmfulness_f1: 0.5562
+    fairness_accuracy: 0.7180
+    fairness_f1: 0.7002
+    intent_exact_match: 0.0340
+    intent_macro_f1: 0.6326
+    intent_Political_f1: 0.8041
+    intent_Economic_f1: 0.6649
+    intent_Psychological_f1: 0.4351
+    intent_Public_f1: 0.6265
+🎉 Psychological_fulfillment F1提升到: 0.4351
+✓ 保存最佳模型!
+============================================================
+
+Epoch 2/40
+--------------------------------------------------
+  Batch 0/767 (0.0%), Loss: 3.4484, LR: 1.00e-05, Batch Time: 0.37s
+  Batch 10/767 (1.3%), Loss: 4.0084, LR: 1.00e-05, Batch Time: 0.34s
+  Batch 20/767 (2.6%), Loss: 3.8397, LR: 1.00e-05, Batch Time: 0.37s
+  Batch 30/767 (3.9%), Loss: 3.6058, LR: 1.00e-05, Batch Time: 0.34s
+  Batch 40/767 (5.2%), Loss: 3.7129, LR: 1.00e-05, Batch Time: 0.36s
+  Batch 50/767 (6.5%), Loss: 3.8122, LR: 1.00e-05, Batch Time: 0.34s
+  Batch 60/767 (7.8%), Loss: 4.7788, LR: 1.00e-05, Batch Time: 0.36s
+  Batch 70/767 (9.1%), Loss: 3.9140, LR: 1.00e-05, Batch Time: 0.34s
+  Batch 80/767 (10.4%), Loss: 4.1973, LR: 1.00e-05, Batch Time: 0.37s
+  Batch 90/767 (11.7%), Loss: 3.7617, LR: 1.00e-05, Batch Time: 0.34s
+  Batch 100/767 (13.0%), Loss: 3.6794, LR: 1.00e-05, Batch Time: 0.37s
+  Batch 110/767 (14.3%), Loss: 3.4966, LR: 1.00e-05, Batch Time: 0.34s
+  Batch 120/767 (15.6%), Loss: 3.9039, LR: 1.00e-05, Batch Time: 0.37s
+  Batch 130/767 (16.9%), Loss: 3.7907, LR: 1.00e-05, Batch Time: 0.35s
+  Batch 140/767 (18.3%), Loss: 3.6548, LR: 1.00e-05, Batch Time: 0.34s
+  Batch 150/767 (19.6%), Loss: 3.4020, LR: 1.00e-05, Batch Time: 0.36s
+  Batch 160/767 (20.9%), Loss: 4.0878, LR: 1.00e-05, Batch Time: 0.37s
+  Batch 170/767 (22.2%), Loss: 3.7558, LR: 1.00e-05, Batch Time: 0.33s
+  Batch 180/767 (23.5%), Loss: 4.1125, LR: 1.00e-05, Batch Time: 0.36s
+  Batch 190/767 (24.8%), Loss: 3.4126, LR: 1.00e-05, Batch Time: 0.34s
+  Batch 200/767 (26.1%), Loss: 3.2149, LR: 1.00e-05, Batch Time: 0.36s
+  Batch 210/767 (27.4%), Loss: 3.8210, LR: 1.00e-05, Batch Time: 0.35s
+  Batch 220/767 (28.7%), Loss: 3.7538, LR: 1.00e-05, Batch Time: 0.35s
+  Batch 230/767 (30.0%), Loss: 3.8022, LR: 1.00e-05, Batch Time: 0.36s
+  Batch 240/767 (31.3%), Loss: 3.5935, LR: 1.00e-05, Batch Time: 0.34s
+  Batch 250/767 (32.6%), Loss: 3.8097, LR: 1.00e-05, Batch Time: 0.37s
+  Batch 260/767 (33.9%), Loss: 3.9401, LR: 1.00e-05, Batch Time: 0.35s
+  Batch 270/767 (35.2%), Loss: 3.4088, LR: 1.00e-05, Batch Time: 0.34s
+  Batch 280/767 (36.5%), Loss: 4.2478, LR: 1.00e-05, Batch Time: 0.36s
+  Batch 290/767 (37.8%), Loss: 3.7355, LR: 1.00e-05, Batch Time: 0.37s
+  Batch 300/767 (39.1%), Loss: 3.6354, LR: 1.00e-05, Batch Time: 0.37s
+  Batch 310/767 (40.4%), Loss: 3.5030, LR: 1.00e-05, Batch Time: 0.36s
+  Batch 320/767 (41.7%), Loss: 3.5754, LR: 1.00e-05, Batch Time: 0.34s
+  Batch 330/767 (43.0%), Loss: 4.1330, LR: 1.00e-05, Batch Time: 0.36s
+  Batch 340/767 (44.3%), Loss: 3.6334, LR: 1.00e-05, Batch Time: 0.36s
+  Batch 350/767 (45.6%), Loss: 3.8074, LR: 1.00e-05, Batch Time: 0.34s
+  Batch 360/767 (46.9%), Loss: 3.8525, LR: 1.00e-05, Batch Time: 0.36s
+  Batch 370/767 (48.2%), Loss: 3.8878, LR: 1.00e-05, Batch Time: 0.34s
+  Batch 380/767 (49.5%), Loss: 3.7981, LR: 1.00e-05, Batch Time: 0.36s
+  Batch 390/767 (50.8%), Loss: 3.7389, LR: 1.00e-05, Batch Time: 0.36s
+  Batch 400/767 (52.2%), Loss: 3.4327, LR: 1.00e-05, Batch Time: 0.34s
+  Batch 410/767 (53.5%), Loss: 3.7037, LR: 1.00e-05, Batch Time: 0.36s
+  Batch 420/767 (54.8%), Loss: 3.8713, LR: 1.00e-05, Batch Time: 0.35s
+  Batch 430/767 (56.1%), Loss: 3.2014, LR: 1.00e-05, Batch Time: 0.35s
+  Batch 440/767 (57.4%), Loss: 3.7847, LR: 1.00e-05, Batch Time: 0.39s
+  Batch 450/767 (58.7%), Loss: 3.5097, LR: 1.00e-05, Batch Time: 0.34s
+  Batch 460/767 (60.0%), Loss: 3.6923, LR: 1.00e-05, Batch Time: 0.36s
+  Batch 470/767 (61.3%), Loss: 3.9293, LR: 1.00e-05, Batch Time: 0.35s
+  Batch 480/767 (62.6%), Loss: 3.0672, LR: 1.00e-05, Batch Time: 0.35s
+  Batch 490/767 (63.9%), Loss: 4.0040, LR: 1.00e-05, Batch Time: 0.36s
+  Batch 500/767 (65.2%), Loss: 4.0763, LR: 1.00e-05, Batch Time: 0.34s
+  Batch 510/767 (66.5%), Loss: 3.7266, LR: 1.00e-05, Batch Time: 0.36s
+  Batch 520/767 (67.8%), Loss: 4.2224, LR: 1.00e-05, Batch Time: 0.35s
+  Batch 530/767 (69.1%), Loss: 3.5296, LR: 1.00e-05, Batch Time: 0.36s
+  Batch 540/767 (70.4%), Loss: 3.4971, LR: 1.00e-05, Batch Time: 0.35s
+  Batch 550/767 (71.7%), Loss: 4.0465, LR: 1.00e-05, Batch Time: 0.36s
+  Batch 560/767 (73.0%), Loss: 3.9308, LR: 1.00e-05, Batch Time: 0.35s
+  Batch 570/767 (74.3%), Loss: 3.7653, LR: 1.00e-05, Batch Time: 0.36s
+  Batch 580/767 (75.6%), Loss: 4.0159, LR: 1.00e-05, Batch Time: 0.35s
+  Batch 590/767 (76.9%), Loss: 3.1349, LR: 1.00e-05, Batch Time: 0.36s
+  Batch 600/767 (78.2%), Loss: 3.2081, LR: 1.00e-05, Batch Time: 0.35s
+  Batch 610/767 (79.5%), Loss: 3.5272, LR: 1.00e-05, Batch Time: 0.35s
+  Batch 620/767 (80.8%), Loss: 3.5481, LR: 1.00e-05, Batch Time: 0.36s
+  Batch 630/767 (82.1%), Loss: 3.7993, LR: 1.00e-05, Batch Time: 0.38s
+  Batch 640/767 (83.4%), Loss: 3.6063, LR: 1.00e-05, Batch Time: 0.36s
+  Batch 650/767 (84.7%), Loss: 3.0892, LR: 1.00e-05, Batch Time: 0.36s
+  Batch 660/767 (86.0%), Loss: 4.5433, LR: 1.00e-05, Batch Time: 0.35s
+  Batch 670/767 (87.4%), Loss: 3.7759, LR: 1.00e-05, Batch Time: 0.36s
+  Batch 680/767 (88.7%), Loss: 3.6334, LR: 1.00e-05, Batch Time: 0.36s
+  Batch 690/767 (90.0%), Loss: 3.7687, LR: 1.00e-05, Batch Time: 0.33s
+  Batch 700/767 (91.3%), Loss: 4.1451, LR: 1.00e-05, Batch Time: 0.37s
+  Batch 710/767 (92.6%), Loss: 4.3964, LR: 1.00e-05, Batch Time: 0.36s
+  Batch 720/767 (93.9%), Loss: 3.4237, LR: 1.00e-05, Batch Time: 0.34s
+  Batch 730/767 (95.2%), Loss: 3.6096, LR: 1.00e-05, Batch Time: 0.36s
+  Batch 740/767 (96.5%), Loss: 3.0064, LR: 1.00e-05, Batch Time: 0.33s
+  Batch 750/767 (97.8%), Loss: 3.6331, LR: 1.00e-05, Batch Time: 0.36s
+  Batch 760/767 (99.1%), Loss: 3.5868, LR: 1.00e-05, Batch Time: 0.33s
+
+Epoch 2 完成:
+  训练损失: 3.7801
+  验证损失: 3.4775
+  当前学习率: 2.00e-05
+  Epoch时间: 4.6分钟
+  总训练时间: 0小时9分钟
+  验证指标:
+    stance_accuracy: 0.7960
+    stance_f1: 0.7289
+    harmfulness_accuracy: 0.6880
+    harmfulness_f1: 0.6866
+    fairness_accuracy: 0.7340
+    fairness_f1: 0.7366
+    intent_exact_match: 0.2220
+    intent_macro_f1: 0.6179
+    intent_Political_f1: 0.7758
+    intent_Economic_f1: 0.5878
+    intent_Psychological_f1: 0.4578
+    intent_Public_f1: 0.6503
+🎉 Psychological_fulfillment F1提升到: 0.4578
+✓ 保存最佳模型!
+============================================================
+
+Epoch 3/40
+--------------------------------------------------
+  Batch 0/767 (0.0%), Loss: 3.7254, LR: 2.00e-05, Batch Time: 0.36s
+  Batch 10/767 (1.3%), Loss: 3.6612, LR: 2.00e-05, Batch Time: 0.35s
+  Batch 20/767 (2.6%), Loss: 4.5880, LR: 2.00e-05, Batch Time: 0.33s
+  Batch 30/767 (3.9%), Loss: 3.8682, LR: 2.00e-05, Batch Time: 0.36s
+  Batch 40/767 (5.2%), Loss: 3.5468, LR: 2.00e-05, Batch Time: 0.35s
+  Batch 50/767 (6.5%), Loss: 3.6698, LR: 2.00e-05, Batch Time: 0.35s
+  Batch 60/767 (7.8%), Loss: 3.5220, LR: 2.00e-05, Batch Time: 0.36s
+  Batch 70/767 (9.1%), Loss: 4.2207, LR: 2.00e-05, Batch Time: 0.34s
+  Batch 80/767 (10.4%), Loss: 3.4215, LR: 2.00e-05, Batch Time: 0.39s
+  Batch 90/767 (11.7%), Loss: 4.2773, LR: 2.00e-05, Batch Time: 0.35s
+  Batch 100/767 (13.0%), Loss: 3.5757, LR: 2.00e-05, Batch Time: 0.36s
+  Batch 110/767 (14.3%), Loss: 3.3752, LR: 2.00e-05, Batch Time: 0.36s
+  Batch 120/767 (15.6%), Loss: 3.4743, LR: 2.00e-05, Batch Time: 0.33s
+  Batch 130/767 (16.9%), Loss: 4.0328, LR: 2.00e-05, Batch Time: 0.34s
+  Batch 140/767 (18.3%), Loss: 4.5800, LR: 2.00e-05, Batch Time: 0.36s
+  Batch 150/767 (19.6%), Loss: 4.0276, LR: 2.00e-05, Batch Time: 0.33s
+  Batch 160/767 (20.9%), Loss: 3.5668, LR: 2.00e-05, Batch Time: 0.38s
+  Batch 170/767 (22.2%), Loss: 3.3698, LR: 2.00e-05, Batch Time: 0.35s
+  Batch 180/767 (23.5%), Loss: 3.5282, LR: 2.00e-05, Batch Time: 0.37s
+  Batch 190/767 (24.8%), Loss: 4.2456, LR: 2.00e-05, Batch Time: 0.36s
+  Batch 200/767 (26.1%), Loss: 4.5688, LR: 2.00e-05, Batch Time: 0.34s
+  Batch 210/767 (27.4%), Loss: 3.5560, LR: 2.00e-05, Batch Time: 0.36s
+  Batch 220/767 (28.7%), Loss: 3.5102, LR: 2.00e-05, Batch Time: 0.36s
+  Batch 230/767 (30.0%), Loss: 3.4067, LR: 2.00e-05, Batch Time: 0.37s
+  Batch 240/767 (31.3%), Loss: 3.5650, LR: 2.00e-05, Batch Time: 0.36s
+  Batch 250/767 (32.6%), Loss: 4.0130, LR: 2.00e-05, Batch Time: 0.35s
+  Batch 260/767 (33.9%), Loss: 3.3839, LR: 2.00e-05, Batch Time: 0.36s
+  Batch 270/767 (35.2%), Loss: 4.1948, LR: 2.00e-05, Batch Time: 0.35s
+  Batch 280/767 (36.5%), Loss: 3.1175, LR: 2.00e-05, Batch Time: 0.37s
+  Batch 290/767 (37.8%), Loss: 2.9074, LR: 2.00e-05, Batch Time: 0.36s
+  Batch 300/767 (39.1%), Loss: 4.4000, LR: 2.00e-05, Batch Time: 0.34s
+  Batch 310/767 (40.4%), Loss: 3.8377, LR: 2.00e-05, Batch Time: 0.36s
+  Batch 320/767 (41.7%), Loss: 3.5556, LR: 2.00e-05, Batch Time: 0.35s
+  Batch 330/767 (43.0%), Loss: 3.0311, LR: 2.00e-05, Batch Time: 0.40s
+  Batch 340/767 (44.3%), Loss: 3.4046, LR: 2.00e-05, Batch Time: 0.34s
+  Batch 350/767 (45.6%), Loss: 3.8375, LR: 2.00e-05, Batch Time: 0.36s
+  Batch 360/767 (46.9%), Loss: 3.3801, LR: 2.00e-05, Batch Time: 0.36s
+  Batch 370/767 (48.2%), Loss: 4.4827, LR: 2.00e-05, Batch Time: 0.47s
+  Batch 380/767 (49.5%), Loss: 4.2826, LR: 2.00e-05, Batch Time: 0.39s
+  Batch 390/767 (50.8%), Loss: 3.4435, LR: 2.00e-05, Batch Time: 0.34s
+  Batch 400/767 (52.2%), Loss: 2.9658, LR: 2.00e-05, Batch Time: 0.36s
+  Batch 410/767 (53.5%), Loss: 3.8737, LR: 2.00e-05, Batch Time: 0.35s
+  Batch 420/767 (54.8%), Loss: 3.7841, LR: 2.00e-05, Batch Time: 0.36s
+  Batch 430/767 (56.1%), Loss: 3.3158, LR: 2.00e-05, Batch Time: 0.39s
+  Batch 440/767 (57.4%), Loss: 4.0433, LR: 2.00e-05, Batch Time: 0.36s
+  Batch 450/767 (58.7%), Loss: 3.8424, LR: 2.00e-05, Batch Time: 0.36s
+  Batch 460/767 (60.0%), Loss: 3.6347, LR: 2.00e-05, Batch Time: 0.37s
+  Batch 470/767 (61.3%), Loss: 3.3108, LR: 2.00e-05, Batch Time: 0.36s
+  Batch 480/767 (62.6%), Loss: 4.3211, LR: 2.00e-05, Batch Time: 0.34s
+  Batch 490/767 (63.9%), Loss: 3.1180, LR: 2.00e-05, Batch Time: 0.36s
+  Batch 500/767 (65.2%), Loss: 3.9336, LR: 2.00e-05, Batch Time: 0.37s
+  Batch 510/767 (66.5%), Loss: 3.0638, LR: 2.00e-05, Batch Time: 0.34s
+  Batch 520/767 (67.8%), Loss: 3.7951, LR: 2.00e-05, Batch Time: 0.36s
+  Batch 530/767 (69.1%), Loss: 3.5355, LR: 2.00e-05, Batch Time: 0.37s
+  Batch 540/767 (70.4%), Loss: 3.6675, LR: 2.00e-05, Batch Time: 0.37s
+  Batch 550/767 (71.7%), Loss: 3.8308, LR: 2.00e-05, Batch Time: 0.34s
+  Batch 560/767 (73.0%), Loss: 2.9682, LR: 2.00e-05, Batch Time: 0.37s
+  Batch 570/767 (74.3%), Loss: 3.3358, LR: 2.00e-05, Batch Time: 0.36s
+  Batch 580/767 (75.6%), Loss: 2.8430, LR: 2.00e-05, Batch Time: 0.35s
+  Batch 590/767 (76.9%), Loss: 2.5789, LR: 2.00e-05, Batch Time: 0.36s
+  Batch 600/767 (78.2%), Loss: 3.5739, LR: 2.00e-05, Batch Time: 0.34s
+  Batch 610/767 (79.5%), Loss: 3.4982, LR: 2.00e-05, Batch Time: 0.36s
+  Batch 620/767 (80.8%), Loss: 3.1102, LR: 2.00e-05, Batch Time: 0.33s
+  Batch 630/767 (82.1%), Loss: 3.1104, LR: 2.00e-05, Batch Time: 0.36s
+  Batch 640/767 (83.4%), Loss: 3.6525, LR: 2.00e-05, Batch Time: 0.36s
+  Batch 650/767 (84.7%), Loss: 3.6681, LR: 2.00e-05, Batch Time: 0.35s
+  Batch 660/767 (86.0%), Loss: 2.9437, LR: 2.00e-05, Batch Time: 0.36s
+  Batch 670/767 (87.4%), Loss: 3.6369, LR: 2.00e-05, Batch Time: 0.35s
+  Batch 680/767 (88.7%), Loss: 2.9835, LR: 2.00e-05, Batch Time: 0.36s
+  Batch 690/767 (90.0%), Loss: 4.1327, LR: 2.00e-05, Batch Time: 0.37s
+  Batch 700/767 (91.3%), Loss: 3.3382, LR: 2.00e-05, Batch Time: 0.36s
+  Batch 710/767 (92.6%), Loss: 3.7757, LR: 2.00e-05, Batch Time: 0.35s
+  Batch 720/767 (93.9%), Loss: 4.1023, LR: 2.00e-05, Batch Time: 0.36s
+  Batch 730/767 (95.2%), Loss: 3.1537, LR: 2.00e-05, Batch Time: 0.35s
+  Batch 740/767 (96.5%), Loss: 3.4556, LR: 2.00e-05, Batch Time: 0.36s
+  Batch 750/767 (97.8%), Loss: 4.0796, LR: 2.00e-05, Batch Time: 0.35s
+  Batch 760/767 (99.1%), Loss: 2.9800, LR: 2.00e-05, Batch Time: 0.37s
+
+Epoch 3 完成:
+  训练损失: 3.5433
+  验证损失: 3.4495
+  当前学习率: 1.95e-05
+  Epoch时间: 4.6分钟
+  总训练时间: 0小时14分钟
+  验证指标:
+    stance_accuracy: 0.7940
+    stance_f1: 0.7169
+    harmfulness_accuracy: 0.6800
+    harmfulness_f1: 0.6214
+    fairness_accuracy: 0.7160
+    fairness_f1: 0.7189
+    intent_exact_match: 0.4640
+    intent_macro_f1: 0.6090
+    intent_Political_f1: 0.8425
+    intent_Economic_f1: 0.6360
+    intent_Psychological_f1: 0.2346
+    intent_Public_f1: 0.7228
+============================================================
+
+Epoch 4/40
+--------------------------------------------------
+  Batch 0/767 (0.0%), Loss: 3.3443, LR: 1.95e-05, Batch Time: 0.37s
+  Batch 10/767 (1.3%), Loss: 2.9561, LR: 1.95e-05, Batch Time: 0.34s
+  Batch 20/767 (2.6%), Loss: 3.1211, LR: 1.95e-05, Batch Time: 0.36s
+  Batch 30/767 (3.9%), Loss: 4.0031, LR: 1.95e-05, Batch Time: 0.35s
+  Batch 40/767 (5.2%), Loss: 3.6190, LR: 1.95e-05, Batch Time: 0.36s
+  Batch 50/767 (6.5%), Loss: 3.6432, LR: 1.95e-05, Batch Time: 0.34s
+  Batch 60/767 (7.8%), Loss: 2.5632, LR: 1.95e-05, Batch Time: 0.37s
+  Batch 70/767 (9.1%), Loss: 3.5675, LR: 1.95e-05, Batch Time: 0.35s
+  Batch 80/767 (10.4%), Loss: 4.0551, LR: 1.95e-05, Batch Time: 0.36s
+  Batch 90/767 (11.7%), Loss: 3.4985, LR: 1.95e-05, Batch Time: 0.35s
+  Batch 100/767 (13.0%), Loss: 3.2382, LR: 1.95e-05, Batch Time: 0.36s
+  Batch 110/767 (14.3%), Loss: 2.5975, LR: 1.95e-05, Batch Time: 0.35s
+  Batch 120/767 (15.6%), Loss: 3.6444, LR: 1.95e-05, Batch Time: 0.38s
+  Batch 130/767 (16.9%), Loss: 2.5889, LR: 1.95e-05, Batch Time: 0.35s
+  Batch 140/767 (18.3%), Loss: 2.7234, LR: 1.95e-05, Batch Time: 0.36s
+  Batch 150/767 (19.6%), Loss: 3.6684, LR: 1.95e-05, Batch Time: 0.35s
+  Batch 160/767 (20.9%), Loss: 2.3457, LR: 1.95e-05, Batch Time: 0.37s
+  Batch 170/767 (22.2%), Loss: 3.5813, LR: 1.95e-05, Batch Time: 0.35s
+  Batch 180/767 (23.5%), Loss: 2.6949, LR: 1.95e-05, Batch Time: 0.36s
+  Batch 190/767 (24.8%), Loss: 2.7743, LR: 1.95e-05, Batch Time: 0.35s
+  Batch 200/767 (26.1%), Loss: 3.2510, LR: 1.95e-05, Batch Time: 0.37s
+  Batch 210/767 (27.4%), Loss: 3.1536, LR: 1.95e-05, Batch Time: 0.35s
+  Batch 220/767 (28.7%), Loss: 3.0314, LR: 1.95e-05, Batch Time: 0.36s
+  Batch 230/767 (30.0%), Loss: 3.3067, LR: 1.95e-05, Batch Time: 0.35s
+  Batch 240/767 (31.3%), Loss: 3.2398, LR: 1.95e-05, Batch Time: 0.37s
+  Batch 250/767 (32.6%), Loss: 3.4253, LR: 1.95e-05, Batch Time: 0.35s
+  Batch 260/767 (33.9%), Loss: 3.6830, LR: 1.95e-05, Batch Time: 0.36s
+  Batch 270/767 (35.2%), Loss: 2.4668, LR: 1.95e-05, Batch Time: 0.35s
+  Batch 280/767 (36.5%), Loss: 3.3767, LR: 1.95e-05, Batch Time: 0.36s
+  Batch 290/767 (37.8%), Loss: 2.6498, LR: 1.95e-05, Batch Time: 0.35s
+  Batch 300/767 (39.1%), Loss: 3.1239, LR: 1.95e-05, Batch Time: 0.36s
+  Batch 310/767 (40.4%), Loss: 2.8301, LR: 1.95e-05, Batch Time: 0.35s
+  Batch 320/767 (41.7%), Loss: 3.2130, LR: 1.95e-05, Batch Time: 0.38s
+  Batch 330/767 (43.0%), Loss: 3.2896, LR: 1.95e-05, Batch Time: 0.35s
+  Batch 340/767 (44.3%), Loss: 3.2708, LR: 1.95e-05, Batch Time: 0.39s
+  Batch 350/767 (45.6%), Loss: 4.2199, LR: 1.95e-05, Batch Time: 0.35s
+  Batch 360/767 (46.9%), Loss: 3.4595, LR: 1.95e-05, Batch Time: 0.38s
+  Batch 370/767 (48.2%), Loss: 3.5696, LR: 1.95e-05, Batch Time: 0.35s
+  Batch 380/767 (49.5%), Loss: 3.1283, LR: 1.95e-05, Batch Time: 0.39s
+  Batch 390/767 (50.8%), Loss: 3.4299, LR: 1.95e-05, Batch Time: 0.35s
+  Batch 400/767 (52.2%), Loss: 3.1440, LR: 1.95e-05, Batch Time: 0.38s
+  Batch 410/767 (53.5%), Loss: 3.0699, LR: 1.95e-05, Batch Time: 0.36s
+  Batch 420/767 (54.8%), Loss: 3.1707, LR: 1.95e-05, Batch Time: 0.37s
+  Batch 430/767 (56.1%), Loss: 3.3289, LR: 1.95e-05, Batch Time: 0.36s
+  Batch 440/767 (57.4%), Loss: 3.3125, LR: 1.95e-05, Batch Time: 0.26s
+  Batch 450/767 (58.7%), Loss: 2.5919, LR: 1.95e-05, Batch Time: 0.36s
+  Batch 460/767 (60.0%), Loss: 3.3269, LR: 1.95e-05, Batch Time: 0.34s
+  Batch 470/767 (61.3%), Loss: 2.9978, LR: 1.95e-05, Batch Time: 0.36s
+  Batch 480/767 (62.6%), Loss: 3.1753, LR: 1.95e-05, Batch Time: 0.34s
+  Batch 490/767 (63.9%), Loss: 2.8503, LR: 1.95e-05, Batch Time: 0.35s
+  Batch 500/767 (65.2%), Loss: 3.1974, LR: 1.95e-05, Batch Time: 0.35s
+  Batch 510/767 (66.5%), Loss: 3.6636, LR: 1.95e-05, Batch Time: 0.37s
+  Batch 520/767 (67.8%), Loss: 3.1331, LR: 1.95e-05, Batch Time: 0.35s
+  Batch 530/767 (69.1%), Loss: 3.2864, LR: 1.95e-05, Batch Time: 0.35s
+  Batch 540/767 (70.4%), Loss: 3.2488, LR: 1.95e-05, Batch Time: 0.37s
+  Batch 550/767 (71.7%), Loss: 3.1139, LR: 1.95e-05, Batch Time: 0.34s
+  Batch 560/767 (73.0%), Loss: 4.8526, LR: 1.95e-05, Batch Time: 0.36s
+  Batch 570/767 (74.3%), Loss: 2.9890, LR: 1.95e-05, Batch Time: 0.34s
+  Batch 580/767 (75.6%), Loss: 2.9902, LR: 1.95e-05, Batch Time: 0.36s
+  Batch 590/767 (76.9%), Loss: 3.0667, LR: 1.95e-05, Batch Time: 0.34s
+  Batch 600/767 (78.2%), Loss: 3.0301, LR: 1.95e-05, Batch Time: 0.42s
+  Batch 610/767 (79.5%), Loss: 3.1910, LR: 1.95e-05, Batch Time: 0.35s
+  Batch 620/767 (80.8%), Loss: 2.9220, LR: 1.95e-05, Batch Time: 0.38s
+  Batch 630/767 (82.1%), Loss: 3.4094, LR: 1.95e-05, Batch Time: 0.34s
+  Batch 640/767 (83.4%), Loss: 3.2487, LR: 1.95e-05, Batch Time: 0.36s
+  Batch 650/767 (84.7%), Loss: 2.8910, LR: 1.95e-05, Batch Time: 0.34s
+  Batch 660/767 (86.0%), Loss: 3.0443, LR: 1.95e-05, Batch Time: 0.36s
+  Batch 670/767 (87.4%), Loss: 3.0574, LR: 1.95e-05, Batch Time: 0.34s
+  Batch 680/767 (88.7%), Loss: 2.7494, LR: 1.95e-05, Batch Time: 0.36s
+  Batch 690/767 (90.0%), Loss: 3.4421, LR: 1.95e-05, Batch Time: 0.35s
+  Batch 700/767 (91.3%), Loss: 3.3175, LR: 1.95e-05, Batch Time: 0.36s
+  Batch 710/767 (92.6%), Loss: 2.4029, LR: 1.95e-05, Batch Time: 0.36s
+  Batch 720/767 (93.9%), Loss: 3.0417, LR: 1.95e-05, Batch Time: 0.36s
+  Batch 730/767 (95.2%), Loss: 3.4919, LR: 1.95e-05, Batch Time: 0.35s
+  Batch 740/767 (96.5%), Loss: 2.8137, LR: 1.95e-05, Batch Time: 0.35s
+  Batch 750/767 (97.8%), Loss: 2.8310, LR: 1.95e-05, Batch Time: 0.34s
+  Batch 760/767 (99.1%), Loss: 4.0390, LR: 1.95e-05, Batch Time: 0.33s
+
+Epoch 4 完成:
+  训练损失: 3.2967
+  验证损失: 3.4032
+  当前学习率: 1.91e-05
+  Epoch时间: 4.6分钟
+  总训练时间: 0小时18分钟
+  验证指标:
+    stance_accuracy: 0.8100
+    stance_f1: 0.7638
+    harmfulness_accuracy: 0.7200
+    harmfulness_f1: 0.7005
+    fairness_accuracy: 0.7180
+    fairness_f1: 0.7210
+    intent_exact_match: 0.4280
+    intent_macro_f1: 0.6302
+    intent_Political_f1: 0.8225
+    intent_Economic_f1: 0.6310
+    intent_Psychological_f1: 0.3671
+    intent_Public_f1: 0.7000
+============================================================
+
+Epoch 5/40
+--------------------------------------------------
+  Batch 0/767 (0.0%), Loss: 2.7884, LR: 1.91e-05, Batch Time: 0.34s
+  Batch 10/767 (1.3%), Loss: 2.5592, LR: 1.91e-05, Batch Time: 0.36s
+  Batch 20/767 (2.6%), Loss: 2.9797, LR: 1.91e-05, Batch Time: 0.35s
+  Batch 30/767 (3.9%), Loss: 2.6219, LR: 1.91e-05, Batch Time: 0.34s
+  Batch 40/767 (5.2%), Loss: 3.1857, LR: 1.91e-05, Batch Time: 0.36s
+  Batch 50/767 (6.5%), Loss: 2.4553, LR: 1.91e-05, Batch Time: 0.34s
+  Batch 60/767 (7.8%), Loss: 2.3361, LR: 1.91e-05, Batch Time: 0.36s
+  Batch 70/767 (9.1%), Loss: 2.9344, LR: 1.91e-05, Batch Time: 0.36s
+  Batch 80/767 (10.4%), Loss: 2.9706, LR: 1.91e-05, Batch Time: 0.38s
+  Batch 90/767 (11.7%), Loss: 2.5325, LR: 1.91e-05, Batch Time: 0.35s
+  Batch 100/767 (13.0%), Loss: 3.3533, LR: 1.91e-05, Batch Time: 0.36s
+  Batch 110/767 (14.3%), Loss: 3.3073, LR: 1.91e-05, Batch Time: 0.36s
+  Batch 120/767 (15.6%), Loss: 2.8600, LR: 1.91e-05, Batch Time: 0.35s
+  Batch 130/767 (16.9%), Loss: 2.5973, LR: 1.91e-05, Batch Time: 0.35s
+  Batch 140/767 (18.3%), Loss: 2.7268, LR: 1.91e-05, Batch Time: 0.36s
+  Batch 150/767 (19.6%), Loss: 2.4934, LR: 1.91e-05, Batch Time: 0.34s
+  Batch 160/767 (20.9%), Loss: 2.8817, LR: 1.91e-05, Batch Time: 0.35s
+  Batch 170/767 (22.2%), Loss: 2.6771, LR: 1.91e-05, Batch Time: 0.33s
+  Batch 180/767 (23.5%), Loss: 3.0967, LR: 1.91e-05, Batch Time: 0.36s
+  Batch 190/767 (24.8%), Loss: 3.7492, LR: 1.91e-05, Batch Time: 0.33s
+  Batch 200/767 (26.1%), Loss: 2.4251, LR: 1.91e-05, Batch Time: 0.37s
+  Batch 210/767 (27.4%), Loss: 3.8546, LR: 1.91e-05, Batch Time: 0.42s
+  Batch 220/767 (28.7%), Loss: 3.0308, LR: 1.91e-05, Batch Time: 0.34s
+  Batch 230/767 (30.0%), Loss: 2.7453, LR: 1.91e-05, Batch Time: 0.36s
+  Batch 240/767 (31.3%), Loss: 3.2301, LR: 1.91e-05, Batch Time: 0.35s
+  Batch 250/767 (32.6%), Loss: 3.7848, LR: 1.91e-05, Batch Time: 0.36s
+  Batch 260/767 (33.9%), Loss: 2.6862, LR: 1.91e-05, Batch Time: 0.36s
+  Batch 270/767 (35.2%), Loss: 3.0817, LR: 1.91e-05, Batch Time: 0.37s
+  Batch 280/767 (36.5%), Loss: 3.0394, LR: 1.91e-05, Batch Time: 0.35s
+  Batch 290/767 (37.8%), Loss: 2.8046, LR: 1.91e-05, Batch Time: 0.37s
+  Batch 300/767 (39.1%), Loss: 2.9162, LR: 1.91e-05, Batch Time: 0.34s
+  Batch 310/767 (40.4%), Loss: 3.5283, LR: 1.91e-05, Batch Time: 0.38s
+  Batch 320/767 (41.7%), Loss: 2.6655, LR: 1.91e-05, Batch Time: 0.33s
+  Batch 330/767 (43.0%), Loss: 4.2657, LR: 1.91e-05, Batch Time: 0.36s
+  Batch 340/767 (44.3%), Loss: 4.2402, LR: 1.91e-05, Batch Time: 0.36s
+  Batch 350/767 (45.6%), Loss: 2.4090, LR: 1.91e-05, Batch Time: 0.35s
+  Batch 360/767 (46.9%), Loss: 2.6767, LR: 1.91e-05, Batch Time: 0.36s
+  Batch 370/767 (48.2%), Loss: 2.9640, LR: 1.91e-05, Batch Time: 0.35s
+  Batch 380/767 (49.5%), Loss: 3.9725, LR: 1.91e-05, Batch Time: 0.36s
+  Batch 390/767 (50.8%), Loss: 3.8785, LR: 1.91e-05, Batch Time: 0.35s
+  Batch 400/767 (52.2%), Loss: 2.8703, LR: 1.91e-05, Batch Time: 0.36s
+  Batch 410/767 (53.5%), Loss: 2.9468, LR: 1.91e-05, Batch Time: 0.36s
+  Batch 420/767 (54.8%), Loss: 3.2948, LR: 1.91e-05, Batch Time: 0.35s
+  Batch 430/767 (56.1%), Loss: 3.5887, LR: 1.91e-05, Batch Time: 0.35s
+  Batch 440/767 (57.4%), Loss: 3.8030, LR: 1.91e-05, Batch Time: 0.36s
+  Batch 450/767 (58.7%), Loss: 2.8192, LR: 1.91e-05, Batch Time: 0.33s
+  Batch 460/767 (60.0%), Loss: 2.7943, LR: 1.91e-05, Batch Time: 0.36s
+  Batch 470/767 (61.3%), Loss: 3.9156, LR: 1.91e-05, Batch Time: 0.38s
+  Batch 480/767 (62.6%), Loss: 3.0515, LR: 1.91e-05, Batch Time: 0.34s
+  Batch 490/767 (63.9%), Loss: 3.0619, LR: 1.91e-05, Batch Time: 0.36s
+  Batch 500/767 (65.2%), Loss: 3.3898, LR: 1.91e-05, Batch Time: 0.34s
+  Batch 510/767 (66.5%), Loss: 2.9562, LR: 1.91e-05, Batch Time: 0.36s
+  Batch 520/767 (67.8%), Loss: 3.2829, LR: 1.91e-05, Batch Time: 0.35s
+  Batch 530/767 (69.1%), Loss: 2.8508, LR: 1.91e-05, Batch Time: 0.37s
+  Batch 540/767 (70.4%), Loss: 3.4438, LR: 1.91e-05, Batch Time: 0.36s
+  Batch 550/767 (71.7%), Loss: 2.7357, LR: 1.91e-05, Batch Time: 0.36s
+  Batch 560/767 (73.0%), Loss: 2.9355, LR: 1.91e-05, Batch Time: 0.36s
+  Batch 570/767 (74.3%), Loss: 3.0834, LR: 1.91e-05, Batch Time: 0.33s
+  Batch 580/767 (75.6%), Loss: 3.7087, LR: 1.91e-05, Batch Time: 0.36s
+  Batch 590/767 (76.9%), Loss: 3.0592, LR: 1.91e-05, Batch Time: 0.35s
+  Batch 600/767 (78.2%), Loss: 2.5228, LR: 1.91e-05, Batch Time: 0.34s
+  Batch 610/767 (79.5%), Loss: 3.4162, LR: 1.91e-05, Batch Time: 0.36s
+  Batch 620/767 (80.8%), Loss: 2.6159, LR: 1.91e-05, Batch Time: 0.34s
+  Batch 630/767 (82.1%), Loss: 2.6565, LR: 1.91e-05, Batch Time: 0.41s
+  Batch 640/767 (83.4%), Loss: 2.9942, LR: 1.91e-05, Batch Time: 0.37s
+  Batch 650/767 (84.7%), Loss: 3.7948, LR: 1.91e-05, Batch Time: 0.34s
+  Batch 660/767 (86.0%), Loss: 3.3333, LR: 1.91e-05, Batch Time: 0.36s
+  Batch 670/767 (87.4%), Loss: 3.1270, LR: 1.91e-05, Batch Time: 0.34s
+  Batch 680/767 (88.7%), Loss: 2.4304, LR: 1.91e-05, Batch Time: 0.37s
+  Batch 690/767 (90.0%), Loss: 2.8517, LR: 1.91e-05, Batch Time: 0.39s
+  Batch 700/767 (91.3%), Loss: 2.5557, LR: 1.91e-05, Batch Time: 0.37s
+  Batch 710/767 (92.6%), Loss: 1.9885, LR: 1.91e-05, Batch Time: 0.36s
+  Batch 720/767 (93.9%), Loss: 2.6028, LR: 1.91e-05, Batch Time: 0.36s
+  Batch 730/767 (95.2%), Loss: 2.5664, LR: 1.91e-05, Batch Time: 0.38s
+  Batch 740/767 (96.5%), Loss: 3.1458, LR: 1.91e-05, Batch Time: 0.36s
+  Batch 750/767 (97.8%), Loss: 2.7910, LR: 1.91e-05, Batch Time: 0.36s
+  Batch 760/767 (99.1%), Loss: 3.8921, LR: 1.91e-05, Batch Time: 0.36s
+
+Epoch 5 完成:
+  训练损失: 3.0762
+  验证损失: 3.2978
+  当前学习率: 1.86e-05
+  Epoch时间: 4.6分钟
+  总训练时间: 0小时23分钟
+  验证指标:
+    stance_accuracy: 0.8000
+    stance_f1: 0.7510
+    harmfulness_accuracy: 0.7200
+    harmfulness_f1: 0.7036
+    fairness_accuracy: 0.7660
+    fairness_f1: 0.7653
+    intent_exact_match: 0.4300
+    intent_macro_f1: 0.6642
+    intent_Political_f1: 0.8251
+    intent_Economic_f1: 0.6603
+    intent_Psychological_f1: 0.4578
+    intent_Public_f1: 0.7135
+✓ 保存最佳模型!
+============================================================
+
+Epoch 6/40
+--------------------------------------------------
+  Batch 0/767 (0.0%), Loss: 3.2603, LR: 1.86e-05, Batch Time: 0.34s
+  Batch 10/767 (1.3%), Loss: 2.2973, LR: 1.86e-05, Batch Time: 0.36s
+  Batch 20/767 (2.6%), Loss: 2.2603, LR: 1.86e-05, Batch Time: 0.36s
+  Batch 30/767 (3.9%), Loss: 2.2536, LR: 1.86e-05, Batch Time: 0.35s
+  Batch 40/767 (5.2%), Loss: 3.2142, LR: 1.86e-05, Batch Time: 0.36s
+  Batch 50/767 (6.5%), Loss: 4.1062, LR: 1.86e-05, Batch Time: 0.33s
+  Batch 60/767 (7.8%), Loss: 3.1706, LR: 1.86e-05, Batch Time: 0.36s
+  Batch 70/767 (9.1%), Loss: 2.5379, LR: 1.86e-05, Batch Time: 0.35s
+  Batch 80/767 (10.4%), Loss: 2.3967, LR: 1.86e-05, Batch Time: 0.36s
+  Batch 90/767 (11.7%), Loss: 2.7934, LR: 1.86e-05, Batch Time: 0.38s
+  Batch 100/767 (13.0%), Loss: 2.8348, LR: 1.86e-05, Batch Time: 0.36s
+  Batch 110/767 (14.3%), Loss: 2.2283, LR: 1.86e-05, Batch Time: 0.37s
+  Batch 120/767 (15.6%), Loss: 2.8783, LR: 1.86e-05, Batch Time: 0.34s
+  Batch 130/767 (16.9%), Loss: 2.3648, LR: 1.86e-05, Batch Time: 0.37s
+  Batch 140/767 (18.3%), Loss: 2.9609, LR: 1.86e-05, Batch Time: 0.34s
+  Batch 150/767 (19.6%), Loss: 2.4729, LR: 1.86e-05, Batch Time: 0.35s
+  Batch 160/767 (20.9%), Loss: 2.8536, LR: 1.86e-05, Batch Time: 0.35s
+  Batch 170/767 (22.2%), Loss: 2.8099, LR: 1.86e-05, Batch Time: 0.35s
+  Batch 180/767 (23.5%), Loss: 2.8105, LR: 1.86e-05, Batch Time: 0.34s
+  Batch 190/767 (24.8%), Loss: 2.9287, LR: 1.86e-05, Batch Time: 0.35s
+  Batch 200/767 (26.1%), Loss: 4.0727, LR: 1.86e-05, Batch Time: 0.36s
+  Batch 210/767 (27.4%), Loss: 3.1601, LR: 1.86e-05, Batch Time: 0.33s
+  Batch 220/767 (28.7%), Loss: 4.0502, LR: 1.86e-05, Batch Time: 0.37s
+  Batch 230/767 (30.0%), Loss: 2.1709, LR: 1.86e-05, Batch Time: 0.37s
+  Batch 240/767 (31.3%), Loss: 3.2729, LR: 1.86e-05, Batch Time: 0.38s
+  Batch 250/767 (32.6%), Loss: 2.4053, LR: 1.86e-05, Batch Time: 0.34s
+  Batch 260/767 (33.9%), Loss: 3.6041, LR: 1.86e-05, Batch Time: 0.36s
+  Batch 270/767 (35.2%), Loss: 2.3426, LR: 1.86e-05, Batch Time: 0.36s
+  Batch 280/767 (36.5%), Loss: 2.9449, LR: 1.86e-05, Batch Time: 0.33s
+  Batch 290/767 (37.8%), Loss: 3.0552, LR: 1.86e-05, Batch Time: 0.35s
+  Batch 300/767 (39.1%), Loss: 3.0927, LR: 1.86e-05, Batch Time: 0.35s
+  Batch 310/767 (40.4%), Loss: 2.4491, LR: 1.86e-05, Batch Time: 0.36s
+  Batch 320/767 (41.7%), Loss: 2.6300, LR: 1.86e-05, Batch Time: 0.37s
+  Batch 330/767 (43.0%), Loss: 2.2696, LR: 1.86e-05, Batch Time: 0.33s
+  Batch 340/767 (44.3%), Loss: 2.7444, LR: 1.86e-05, Batch Time: 0.37s
+  Batch 350/767 (45.6%), Loss: 3.6638, LR: 1.86e-05, Batch Time: 0.37s
+  Batch 360/767 (46.9%), Loss: 2.4594, LR: 1.86e-05, Batch Time: 0.35s
+  Batch 370/767 (48.2%), Loss: 3.3100, LR: 1.86e-05, Batch Time: 0.39s
+  Batch 380/767 (49.5%), Loss: 3.3507, LR: 1.86e-05, Batch Time: 0.36s
+  Batch 390/767 (50.8%), Loss: 2.9118, LR: 1.86e-05, Batch Time: 0.35s
+  Batch 400/767 (52.2%), Loss: 2.2578, LR: 1.86e-05, Batch Time: 0.36s
+  Batch 410/767 (53.5%), Loss: 2.8600, LR: 1.86e-05, Batch Time: 0.35s
+  Batch 420/767 (54.8%), Loss: 2.3279, LR: 1.86e-05, Batch Time: 0.38s
+  Batch 430/767 (56.1%), Loss: 3.5439, LR: 1.86e-05, Batch Time: 0.36s
+  Batch 440/767 (57.4%), Loss: 1.9821, LR: 1.86e-05, Batch Time: 0.33s
+  Batch 450/767 (58.7%), Loss: 2.8018, LR: 1.86e-05, Batch Time: 0.36s
+  Batch 460/767 (60.0%), Loss: 2.6299, LR: 1.86e-05, Batch Time: 0.37s
+  Batch 470/767 (61.3%), Loss: 1.9817, LR: 1.86e-05, Batch Time: 0.36s
+  Batch 480/767 (62.6%), Loss: 2.5793, LR: 1.86e-05, Batch Time: 0.35s
+  Batch 490/767 (63.9%), Loss: 2.2526, LR: 1.86e-05, Batch Time: 0.36s
+  Batch 500/767 (65.2%), Loss: 2.2299, LR: 1.86e-05, Batch Time: 0.36s
+  Batch 510/767 (66.5%), Loss: 2.1313, LR: 1.86e-05, Batch Time: 0.34s
+  Batch 520/767 (67.8%), Loss: 3.8757, LR: 1.86e-05, Batch Time: 0.36s
+  Batch 530/767 (69.1%), Loss: 3.0146, LR: 1.86e-05, Batch Time: 0.35s
+  Batch 540/767 (70.4%), Loss: 2.4533, LR: 1.86e-05, Batch Time: 0.36s
+  Batch 550/767 (71.7%), Loss: 3.3828, LR: 1.86e-05, Batch Time: 0.37s
+  Batch 560/767 (73.0%), Loss: 2.5483, LR: 1.86e-05, Batch Time: 0.36s
+  Batch 570/767 (74.3%), Loss: 2.6258, LR: 1.86e-05, Batch Time: 0.42s
+  Batch 580/767 (75.6%), Loss: 2.5701, LR: 1.86e-05, Batch Time: 0.36s
+  Batch 590/767 (76.9%), Loss: 3.5814, LR: 1.86e-05, Batch Time: 0.36s
+  Batch 600/767 (78.2%), Loss: 2.5325, LR: 1.86e-05, Batch Time: 0.36s
+  Batch 610/767 (79.5%), Loss: 3.2427, LR: 1.86e-05, Batch Time: 0.35s
+  Batch 620/767 (80.8%), Loss: 3.0083, LR: 1.86e-05, Batch Time: 0.36s
+  Batch 630/767 (82.1%), Loss: 3.8013, LR: 1.86e-05, Batch Time: 0.35s
+  Batch 640/767 (83.4%), Loss: 3.6738, LR: 1.86e-05, Batch Time: 0.34s
+  Batch 650/767 (84.7%), Loss: 2.7347, LR: 1.86e-05, Batch Time: 0.36s
+  Batch 660/767 (86.0%), Loss: 2.9193, LR: 1.86e-05, Batch Time: 0.35s
+  Batch 670/767 (87.4%), Loss: 2.1570, LR: 1.86e-05, Batch Time: 0.36s
+  Batch 680/767 (88.7%), Loss: 2.1451, LR: 1.86e-05, Batch Time: 0.34s
+  Batch 690/767 (90.0%), Loss: 2.2913, LR: 1.86e-05, Batch Time: 0.36s
+  Batch 700/767 (91.3%), Loss: 2.8701, LR: 1.86e-05, Batch Time: 0.36s
+  Batch 710/767 (92.6%), Loss: 2.8820, LR: 1.86e-05, Batch Time: 0.34s
+  Batch 720/767 (93.9%), Loss: 2.8750, LR: 1.86e-05, Batch Time: 0.37s
+  Batch 730/767 (95.2%), Loss: 2.6179, LR: 1.86e-05, Batch Time: 0.34s
+  Batch 740/767 (96.5%), Loss: 2.1640, LR: 1.86e-05, Batch Time: 0.36s
+  Batch 750/767 (97.8%), Loss: 2.4408, LR: 1.86e-05, Batch Time: 0.33s
+  Batch 760/767 (99.1%), Loss: 3.4584, LR: 1.86e-05, Batch Time: 0.36s
+
+Epoch 6 完成:
+  训练损失: 2.8200
+  验证损失: 3.6649
+  当前学习率: 1.81e-05
+  Epoch时间: 4.6分钟
+  总训练时间: 0小时28分钟
+  验证指标:
+    stance_accuracy: 0.8080
+    stance_f1: 0.7626
+    harmfulness_accuracy: 0.7160
+    harmfulness_f1: 0.6902
+    fairness_accuracy: 0.7280
+    fairness_f1: 0.7309
+    intent_exact_match: 0.4500
+    intent_macro_f1: 0.6482
+    intent_Political_f1: 0.8221
+    intent_Economic_f1: 0.6417
+    intent_Psychological_f1: 0.4167
+    intent_Public_f1: 0.7121
+============================================================
+
+Epoch 7/40
+--------------------------------------------------
+  Batch 0/767 (0.0%), Loss: 2.9383, LR: 1.81e-05, Batch Time: 0.36s
+  Batch 10/767 (1.3%), Loss: 2.3148, LR: 1.81e-05, Batch Time: 0.36s
+  Batch 20/767 (2.6%), Loss: 2.3641, LR: 1.81e-05, Batch Time: 0.35s
+  Batch 30/767 (3.9%), Loss: 2.4041, LR: 1.81e-05, Batch Time: 0.35s
+  Batch 40/767 (5.2%), Loss: 3.1622, LR: 1.81e-05, Batch Time: 0.36s
+  Batch 50/767 (6.5%), Loss: 2.7698, LR: 1.81e-05, Batch Time: 0.36s
+  Batch 60/767 (7.8%), Loss: 2.3137, LR: 1.81e-05, Batch Time: 0.36s
+  Batch 70/767 (9.1%), Loss: 2.7188, LR: 1.81e-05, Batch Time: 0.34s
+  Batch 80/767 (10.4%), Loss: 2.7739, LR: 1.81e-05, Batch Time: 0.36s
+  Batch 90/767 (11.7%), Loss: 2.8669, LR: 1.81e-05, Batch Time: 0.38s
+  Batch 100/767 (13.0%), Loss: 2.3360, LR: 1.81e-05, Batch Time: 0.36s
+  Batch 110/767 (14.3%), Loss: 2.8724, LR: 1.81e-05, Batch Time: 0.34s
+  Batch 120/767 (15.6%), Loss: 2.8682, LR: 1.81e-05, Batch Time: 0.37s
+  Batch 130/767 (16.9%), Loss: 2.8437, LR: 1.81e-05, Batch Time: 0.35s
+  Batch 140/767 (18.3%), Loss: 2.7589, LR: 1.81e-05, Batch Time: 0.36s
+  Batch 150/767 (19.6%), Loss: 2.3568, LR: 1.81e-05, Batch Time: 0.35s
+  Batch 160/767 (20.9%), Loss: 3.0740, LR: 1.81e-05, Batch Time: 0.36s
+  Batch 170/767 (22.2%), Loss: 2.3753, LR: 1.81e-05, Batch Time: 0.36s
+  Batch 180/767 (23.5%), Loss: 3.7888, LR: 1.81e-05, Batch Time: 0.36s
+  Batch 190/767 (24.8%), Loss: 2.7483, LR: 1.81e-05, Batch Time: 0.36s
+  Batch 200/767 (26.1%), Loss: 3.5954, LR: 1.81e-05, Batch Time: 0.34s
+  Batch 210/767 (27.4%), Loss: 3.0402, LR: 1.81e-05, Batch Time: 0.36s
+  Batch 220/767 (28.7%), Loss: 2.5034, LR: 1.81e-05, Batch Time: 0.35s
+  Batch 230/767 (30.0%), Loss: 2.0426, LR: 1.81e-05, Batch Time: 0.36s
+  Batch 240/767 (31.3%), Loss: 2.0083, LR: 1.81e-05, Batch Time: 0.34s
+  Batch 250/767 (32.6%), Loss: 3.3227, LR: 1.81e-05, Batch Time: 0.36s
+  Batch 260/767 (33.9%), Loss: 2.0542, LR: 1.81e-05, Batch Time: 0.36s
+  Batch 270/767 (35.2%), Loss: 2.2069, LR: 1.81e-05, Batch Time: 0.36s
+  Batch 280/767 (36.5%), Loss: 3.2154, LR: 1.81e-05, Batch Time: 0.33s
+  Batch 290/767 (37.8%), Loss: 2.9956, LR: 1.81e-05, Batch Time: 0.36s
+  Batch 300/767 (39.1%), Loss: 2.1500, LR: 1.81e-05, Batch Time: 0.34s
+  Batch 310/767 (40.4%), Loss: 2.1263, LR: 1.81e-05, Batch Time: 0.36s
+  Batch 320/767 (41.7%), Loss: 2.5384, LR: 1.81e-05, Batch Time: 0.37s
+  Batch 330/767 (43.0%), Loss: 2.2191, LR: 1.81e-05, Batch Time: 0.37s
+  Batch 340/767 (44.3%), Loss: 2.1635, LR: 1.81e-05, Batch Time: 0.37s
+  Batch 350/767 (45.6%), Loss: 2.9647, LR: 1.81e-05, Batch Time: 0.36s
+  Batch 360/767 (46.9%), Loss: 3.3685, LR: 1.81e-05, Batch Time: 0.35s
+  Batch 370/767 (48.2%), Loss: 2.7467, LR: 1.81e-05, Batch Time: 0.36s
+  Batch 380/767 (49.5%), Loss: 3.3154, LR: 1.81e-05, Batch Time: 0.36s
+  Batch 390/767 (50.8%), Loss: 3.1206, LR: 1.81e-05, Batch Time: 0.36s
+  Batch 400/767 (52.2%), Loss: 2.4054, LR: 1.81e-05, Batch Time: 0.36s
+  Batch 410/767 (53.5%), Loss: 2.4662, LR: 1.81e-05, Batch Time: 0.35s
+  Batch 420/767 (54.8%), Loss: 2.3610, LR: 1.81e-05, Batch Time: 0.35s
+  Batch 430/767 (56.1%), Loss: 2.5227, LR: 1.81e-05, Batch Time: 0.36s
+  Batch 440/767 (57.4%), Loss: 3.2058, LR: 1.81e-05, Batch Time: 0.35s
+  Batch 450/767 (58.7%), Loss: 2.7260, LR: 1.81e-05, Batch Time: 0.38s
+  Batch 460/767 (60.0%), Loss: 2.5334, LR: 1.81e-05, Batch Time: 0.36s
+  Batch 470/767 (61.3%), Loss: 2.1321, LR: 1.81e-05, Batch Time: 0.33s
+  Batch 480/767 (62.6%), Loss: 2.2575, LR: 1.81e-05, Batch Time: 0.36s
+  Batch 490/767 (63.9%), Loss: 2.4606, LR: 1.81e-05, Batch Time: 0.34s
+  Batch 500/767 (65.2%), Loss: 3.2595, LR: 1.81e-05, Batch Time: 0.36s
+  Batch 510/767 (66.5%), Loss: 2.7807, LR: 1.81e-05, Batch Time: 0.34s
+  Batch 520/767 (67.8%), Loss: 2.5074, LR: 1.81e-05, Batch Time: 0.36s
+  Batch 530/767 (69.1%), Loss: 2.3719, LR: 1.81e-05, Batch Time: 0.34s
+  Batch 540/767 (70.4%), Loss: 1.6752, LR: 1.81e-05, Batch Time: 0.36s
+  Batch 550/767 (71.7%), Loss: 3.2433, LR: 1.81e-05, Batch Time: 0.35s
+  Batch 560/767 (73.0%), Loss: 2.2881, LR: 1.81e-05, Batch Time: 0.36s
+  Batch 570/767 (74.3%), Loss: 2.8278, LR: 1.81e-05, Batch Time: 0.35s
+  Batch 580/767 (75.6%), Loss: 2.3746, LR: 1.81e-05, Batch Time: 0.37s
+  Batch 590/767 (76.9%), Loss: 2.1240, LR: 1.81e-05, Batch Time: 0.34s
+  Batch 600/767 (78.2%), Loss: 2.8359, LR: 1.81e-05, Batch Time: 0.35s
+  Batch 610/767 (79.5%), Loss: 2.9561, LR: 1.81e-05, Batch Time: 0.35s
+  Batch 620/767 (80.8%), Loss: 2.2171, LR: 1.81e-05, Batch Time: 0.36s
+  Batch 630/767 (82.1%), Loss: 1.8481, LR: 1.81e-05, Batch Time: 0.35s
+  Batch 640/767 (83.4%), Loss: 2.9548, LR: 1.81e-05, Batch Time: 0.36s
+  Batch 650/767 (84.7%), Loss: 2.2023, LR: 1.81e-05, Batch Time: 0.34s
+  Batch 660/767 (86.0%), Loss: 3.1721, LR: 1.81e-05, Batch Time: 0.36s
+  Batch 670/767 (87.4%), Loss: 2.6345, LR: 1.81e-05, Batch Time: 0.33s
+  Batch 680/767 (88.7%), Loss: 2.4316, LR: 1.81e-05, Batch Time: 0.36s
+  Batch 690/767 (90.0%), Loss: 2.3051, LR: 1.81e-05, Batch Time: 0.34s
+  Batch 700/767 (91.3%), Loss: 2.8315, LR: 1.81e-05, Batch Time: 0.36s
+  Batch 710/767 (92.6%), Loss: 3.3530, LR: 1.81e-05, Batch Time: 0.34s
+  Batch 720/767 (93.9%), Loss: 1.9860, LR: 1.81e-05, Batch Time: 0.36s
+  Batch 730/767 (95.2%), Loss: 1.9527, LR: 1.81e-05, Batch Time: 0.33s
+  Batch 740/767 (96.5%), Loss: 2.6876, LR: 1.81e-05, Batch Time: 0.36s
+  Batch 750/767 (97.8%), Loss: 2.5186, LR: 1.81e-05, Batch Time: 0.35s
+  Batch 760/767 (99.1%), Loss: 2.8885, LR: 1.81e-05, Batch Time: 0.34s
+
+Epoch 7 完成:
+  训练损失: 2.6293
+  验证损失: 3.7030
+  当前学习率: 1.76e-05
+  Epoch时间: 4.6分钟
+  总训练时间: 0小时33分钟
+  验证指标:
+    stance_accuracy: 0.7700
+    stance_f1: 0.7650
+    harmfulness_accuracy: 0.7100
+    harmfulness_f1: 0.7143
+    fairness_accuracy: 0.7780
+    fairness_f1: 0.7708
+    intent_exact_match: 0.3740
+    intent_macro_f1: 0.6761
+    intent_Political_f1: 0.8452
+    intent_Economic_f1: 0.6590
+    intent_Psychological_f1: 0.4845
+    intent_Public_f1: 0.7155
+🎉 Psychological_fulfillment F1提升到: 0.4845
+✓ 保存最佳模型!
+============================================================
+
+Epoch 8/40
+--------------------------------------------------
+  Batch 0/767 (0.0%), Loss: 2.5332, LR: 1.76e-05, Batch Time: 0.37s
+  Batch 10/767 (1.3%), Loss: 1.9797, LR: 1.76e-05, Batch Time: 0.36s
+  Batch 20/767 (2.6%), Loss: 2.7902, LR: 1.76e-05, Batch Time: 0.33s
+  Batch 30/767 (3.9%), Loss: 2.8539, LR: 1.76e-05, Batch Time: 0.35s
+  Batch 40/767 (5.2%), Loss: 3.8311, LR: 1.76e-05, Batch Time: 0.34s
+  Batch 50/767 (6.5%), Loss: 1.8119, LR: 1.76e-05, Batch Time: 0.36s
+  Batch 60/767 (7.8%), Loss: 1.9617, LR: 1.76e-05, Batch Time: 0.35s
+  Batch 70/767 (9.1%), Loss: 2.2623, LR: 1.76e-05, Batch Time: 0.36s
+  Batch 80/767 (10.4%), Loss: 1.9588, LR: 1.76e-05, Batch Time: 0.35s
+  Batch 90/767 (11.7%), Loss: 2.6214, LR: 1.76e-05, Batch Time: 0.35s
+  Batch 100/767 (13.0%), Loss: 2.7149, LR: 1.76e-05, Batch Time: 0.36s
+  Batch 110/767 (14.3%), Loss: 2.3636, LR: 1.76e-05, Batch Time: 0.35s
+  Batch 120/767 (15.6%), Loss: 1.9099, LR: 1.76e-05, Batch Time: 0.38s
+  Batch 130/767 (16.9%), Loss: 1.9625, LR: 1.76e-05, Batch Time: 0.35s
+  Batch 140/767 (18.3%), Loss: 1.6276, LR: 1.76e-05, Batch Time: 0.36s
+  Batch 150/767 (19.6%), Loss: 2.3302, LR: 1.76e-05, Batch Time: 0.35s
+  Batch 160/767 (20.9%), Loss: 2.3357, LR: 1.76e-05, Batch Time: 0.39s
+  Batch 170/767 (22.2%), Loss: 2.3847, LR: 1.76e-05, Batch Time: 0.35s
+  Batch 180/767 (23.5%), Loss: 2.5316, LR: 1.76e-05, Batch Time: 0.36s
+  Batch 190/767 (24.8%), Loss: 2.1129, LR: 1.76e-05, Batch Time: 0.35s
+  Batch 200/767 (26.1%), Loss: 2.6456, LR: 1.76e-05, Batch Time: 0.38s
+  Batch 210/767 (27.4%), Loss: 2.7329, LR: 1.76e-05, Batch Time: 0.35s
+  Batch 220/767 (28.7%), Loss: 1.5621, LR: 1.76e-05, Batch Time: 0.38s
+  Batch 230/767 (30.0%), Loss: 2.2479, LR: 1.76e-05, Batch Time: 0.35s
+  Batch 240/767 (31.3%), Loss: 2.6604, LR: 1.76e-05, Batch Time: 0.37s
+  Batch 250/767 (32.6%), Loss: 2.5257, LR: 1.76e-05, Batch Time: 0.36s
+  Batch 260/767 (33.9%), Loss: 2.5022, LR: 1.76e-05, Batch Time: 0.38s
+  Batch 270/767 (35.2%), Loss: 2.8853, LR: 1.76e-05, Batch Time: 0.36s
+  Batch 280/767 (36.5%), Loss: 1.3086, LR: 1.76e-05, Batch Time: 0.37s
+  Batch 290/767 (37.8%), Loss: 2.0688, LR: 1.76e-05, Batch Time: 0.36s
+  Batch 300/767 (39.1%), Loss: 2.2156, LR: 1.76e-05, Batch Time: 0.38s
+  Batch 310/767 (40.4%), Loss: 2.3840, LR: 1.76e-05, Batch Time: 0.36s
+  Batch 320/767 (41.7%), Loss: 1.8419, LR: 1.76e-05, Batch Time: 0.36s
+  Batch 330/767 (43.0%), Loss: 2.4645, LR: 1.76e-05, Batch Time: 0.37s
+  Batch 340/767 (44.3%), Loss: 1.8700, LR: 1.76e-05, Batch Time: 0.35s
+  Batch 350/767 (45.6%), Loss: 2.9262, LR: 1.76e-05, Batch Time: 0.39s
+  Batch 360/767 (46.9%), Loss: 3.2566, LR: 1.76e-05, Batch Time: 0.36s
+  Batch 370/767 (48.2%), Loss: 2.1648, LR: 1.76e-05, Batch Time: 0.37s
+  Batch 380/767 (49.5%), Loss: 2.1249, LR: 1.76e-05, Batch Time: 0.37s
+  Batch 390/767 (50.8%), Loss: 1.6441, LR: 1.76e-05, Batch Time: 0.33s
+  Batch 400/767 (52.2%), Loss: 2.5373, LR: 1.76e-05, Batch Time: 0.36s
+  Batch 410/767 (53.5%), Loss: 2.1366, LR: 1.76e-05, Batch Time: 0.36s
+  Batch 420/767 (54.8%), Loss: 1.8248, LR: 1.76e-05, Batch Time: 0.36s
+  Batch 430/767 (56.1%), Loss: 2.1345, LR: 1.76e-05, Batch Time: 0.35s
+  Batch 440/767 (57.4%), Loss: 2.4488, LR: 1.76e-05, Batch Time: 0.36s
+  Batch 450/767 (58.7%), Loss: 2.1002, LR: 1.76e-05, Batch Time: 0.36s
+  Batch 460/767 (60.0%), Loss: 2.2367, LR: 1.76e-05, Batch Time: 0.34s
+  Batch 470/767 (61.3%), Loss: 1.8244, LR: 1.76e-05, Batch Time: 0.36s
+  Batch 480/767 (62.6%), Loss: 2.0633, LR: 1.76e-05, Batch Time: 0.36s
+  Batch 490/767 (63.9%), Loss: 1.6619, LR: 1.76e-05, Batch Time: 0.36s
+  Batch 500/767 (65.2%), Loss: 2.5940, LR: 1.76e-05, Batch Time: 0.34s
+  Batch 510/767 (66.5%), Loss: 2.0068, LR: 1.76e-05, Batch Time: 0.36s
+  Batch 520/767 (67.8%), Loss: 1.8382, LR: 1.76e-05, Batch Time: 0.33s
+  Batch 530/767 (69.1%), Loss: 2.9625, LR: 1.76e-05, Batch Time: 0.36s
+  Batch 540/767 (70.4%), Loss: 2.2187, LR: 1.76e-05, Batch Time: 0.35s
+  Batch 550/767 (71.7%), Loss: 1.7741, LR: 1.76e-05, Batch Time: 0.35s
+  Batch 560/767 (73.0%), Loss: 1.5574, LR: 1.76e-05, Batch Time: 0.33s
+  Batch 570/767 (74.3%), Loss: 2.3762, LR: 1.76e-05, Batch Time: 0.36s
+  Batch 580/767 (75.6%), Loss: 2.2934, LR: 1.76e-05, Batch Time: 0.36s
+  Batch 590/767 (76.9%), Loss: 2.8738, LR: 1.76e-05, Batch Time: 0.34s
+  Batch 600/767 (78.2%), Loss: 2.2846, LR: 1.76e-05, Batch Time: 0.36s
+  Batch 610/767 (79.5%), Loss: 3.0851, LR: 1.76e-05, Batch Time: 0.34s
+  Batch 620/767 (80.8%), Loss: 3.0610, LR: 1.76e-05, Batch Time: 0.37s
+  Batch 630/767 (82.1%), Loss: 2.0521, LR: 1.76e-05, Batch Time: 0.36s
+  Batch 640/767 (83.4%), Loss: 3.1580, LR: 1.76e-05, Batch Time: 0.34s
+  Batch 650/767 (84.7%), Loss: 1.8964, LR: 1.76e-05, Batch Time: 0.36s
+  Batch 660/767 (86.0%), Loss: 2.7290, LR: 1.76e-05, Batch Time: 0.36s
+  Batch 670/767 (87.4%), Loss: 3.2092, LR: 1.76e-05, Batch Time: 0.33s
+  Batch 680/767 (88.7%), Loss: 2.0557, LR: 1.76e-05, Batch Time: 0.36s
+  Batch 690/767 (90.0%), Loss: 2.1122, LR: 1.76e-05, Batch Time: 0.36s
+  Batch 700/767 (91.3%), Loss: 2.8267, LR: 1.76e-05, Batch Time: 0.35s
+  Batch 710/767 (92.6%), Loss: 2.2540, LR: 1.76e-05, Batch Time: 0.36s
+  Batch 720/767 (93.9%), Loss: 2.5997, LR: 1.76e-05, Batch Time: 0.34s
+  Batch 730/767 (95.2%), Loss: 2.7894, LR: 1.76e-05, Batch Time: 0.39s
+  Batch 740/767 (96.5%), Loss: 2.1911, LR: 1.76e-05, Batch Time: 0.36s
+  Batch 750/767 (97.8%), Loss: 3.4147, LR: 1.76e-05, Batch Time: 0.34s
+  Batch 760/767 (99.1%), Loss: 2.5513, LR: 1.76e-05, Batch Time: 0.36s
+
+Epoch 8 完成:
+  训练损失: 2.4136
+  验证损失: 3.9553
+  当前学习率: 1.71e-05
+  Epoch时间: 4.6分钟
+  总训练时间: 0小时37分钟
+  验证指标:
+    stance_accuracy: 0.8120
+    stance_f1: 0.7684
+    harmfulness_accuracy: 0.7340
+    harmfulness_f1: 0.7173
+    fairness_accuracy: 0.7480
+    fairness_f1: 0.7502
+    intent_exact_match: 0.4280
+    intent_macro_f1: 0.6731
+    intent_Political_f1: 0.8362
+    intent_Economic_f1: 0.6801
+    intent_Psychological_f1: 0.4696
+    intent_Public_f1: 0.7066
+============================================================
+
+Epoch 9/40
+--------------------------------------------------
+  Batch 0/767 (0.0%), Loss: 3.4306, LR: 1.71e-05, Batch Time: 0.35s
+  Batch 10/767 (1.3%), Loss: 1.8408, LR: 1.71e-05, Batch Time: 0.33s
+  Batch 20/767 (2.6%), Loss: 2.4925, LR: 1.71e-05, Batch Time: 0.39s
+  Batch 30/767 (3.9%), Loss: 2.1258, LR: 1.71e-05, Batch Time: 0.36s
+  Batch 40/767 (5.2%), Loss: 2.1747, LR: 1.71e-05, Batch Time: 0.35s
+  Batch 50/767 (6.5%), Loss: 2.0590, LR: 1.71e-05, Batch Time: 0.37s
+  Batch 60/767 (7.8%), Loss: 2.3544, LR: 1.71e-05, Batch Time: 0.36s
+  Batch 70/767 (9.1%), Loss: 2.1184, LR: 1.71e-05, Batch Time: 0.36s
+  Batch 80/767 (10.4%), Loss: 2.6302, LR: 1.71e-05, Batch Time: 0.36s
+  Batch 90/767 (11.7%), Loss: 2.7780, LR: 1.71e-05, Batch Time: 0.36s
+  Batch 100/767 (13.0%), Loss: 1.9654, LR: 1.71e-05, Batch Time: 0.36s
+  Batch 110/767 (14.3%), Loss: 2.2748, LR: 1.71e-05, Batch Time: 0.38s
+  Batch 120/767 (15.6%), Loss: 2.7433, LR: 1.71e-05, Batch Time: 0.35s
+  Batch 130/767 (16.9%), Loss: 2.2011, LR: 1.71e-05, Batch Time: 0.37s
+  Batch 140/767 (18.3%), Loss: 2.2063, LR: 1.71e-05, Batch Time: 0.36s
+  Batch 150/767 (19.6%), Loss: 2.2696, LR: 1.71e-05, Batch Time: 0.34s
+  Batch 160/767 (20.9%), Loss: 3.5157, LR: 1.71e-05, Batch Time: 0.34s
+  Batch 170/767 (22.2%), Loss: 1.5164, LR: 1.71e-05, Batch Time: 0.34s
+  Batch 180/767 (23.5%), Loss: 1.8250, LR: 1.71e-05, Batch Time: 0.36s
+  Batch 190/767 (24.8%), Loss: 2.5449, LR: 1.71e-05, Batch Time: 0.36s
+  Batch 200/767 (26.1%), Loss: 2.3760, LR: 1.71e-05, Batch Time: 0.36s
+  Batch 210/767 (27.4%), Loss: 2.5632, LR: 1.71e-05, Batch Time: 0.34s
+  Batch 220/767 (28.7%), Loss: 2.4711, LR: 1.71e-05, Batch Time: 0.35s
+  Batch 230/767 (30.0%), Loss: 2.3492, LR: 1.71e-05, Batch Time: 0.35s
+  Batch 240/767 (31.3%), Loss: 2.7944, LR: 1.71e-05, Batch Time: 0.35s
+  Batch 250/767 (32.6%), Loss: 2.1294, LR: 1.71e-05, Batch Time: 0.35s
+  Batch 260/767 (33.9%), Loss: 2.8151, LR: 1.71e-05, Batch Time: 0.36s
+  Batch 270/767 (35.2%), Loss: 2.0642, LR: 1.71e-05, Batch Time: 0.35s
+  Batch 280/767 (36.5%), Loss: 1.9135, LR: 1.71e-05, Batch Time: 0.35s
+  Batch 290/767 (37.8%), Loss: 2.0043, LR: 1.71e-05, Batch Time: 0.36s
+  Batch 300/767 (39.1%), Loss: 1.8255, LR: 1.71e-05, Batch Time: 0.33s
+  Batch 310/767 (40.4%), Loss: 1.7403, LR: 1.71e-05, Batch Time: 0.36s
+  Batch 320/767 (41.7%), Loss: 1.7374, LR: 1.71e-05, Batch Time: 0.34s
+  Batch 330/767 (43.0%), Loss: 2.0386, LR: 1.71e-05, Batch Time: 0.36s
+  Batch 340/767 (44.3%), Loss: 2.1558, LR: 1.71e-05, Batch Time: 0.34s
+  Batch 350/767 (45.6%), Loss: 2.1023, LR: 1.71e-05, Batch Time: 0.37s
+  Batch 360/767 (46.9%), Loss: 2.1006, LR: 1.71e-05, Batch Time: 0.37s
+  Batch 370/767 (48.2%), Loss: 2.1510, LR: 1.71e-05, Batch Time: 0.35s
+  Batch 380/767 (49.5%), Loss: 2.1578, LR: 1.71e-05, Batch Time: 0.33s
+  Batch 390/767 (50.8%), Loss: 1.8337, LR: 1.71e-05, Batch Time: 0.36s
+  Batch 400/767 (52.2%), Loss: 2.0017, LR: 1.71e-05, Batch Time: 0.36s
+  Batch 410/767 (53.5%), Loss: 1.6797, LR: 1.71e-05, Batch Time: 0.39s
+  Batch 420/767 (54.8%), Loss: 1.7035, LR: 1.71e-05, Batch Time: 0.35s
+  Batch 430/767 (56.1%), Loss: 2.2140, LR: 1.71e-05, Batch Time: 0.34s
+  Batch 440/767 (57.4%), Loss: 1.6983, LR: 1.71e-05, Batch Time: 0.34s
+  Batch 450/767 (58.7%), Loss: 2.4261, LR: 1.71e-05, Batch Time: 0.36s
+  Batch 460/767 (60.0%), Loss: 2.2896, LR: 1.71e-05, Batch Time: 0.35s
+  Batch 470/767 (61.3%), Loss: 1.9070, LR: 1.71e-05, Batch Time: 0.36s
+  Batch 480/767 (62.6%), Loss: 1.6896, LR: 1.71e-05, Batch Time: 0.37s
+  Batch 490/767 (63.9%), Loss: 2.9889, LR: 1.71e-05, Batch Time: 0.35s
+  Batch 500/767 (65.2%), Loss: 2.3567, LR: 1.71e-05, Batch Time: 0.36s
+  Batch 510/767 (66.5%), Loss: 2.7717, LR: 1.71e-05, Batch Time: 0.33s
+  Batch 520/767 (67.8%), Loss: 2.0201, LR: 1.71e-05, Batch Time: 0.36s
+  Batch 530/767 (69.1%), Loss: 2.3619, LR: 1.71e-05, Batch Time: 0.33s
+  Batch 540/767 (70.4%), Loss: 2.3192, LR: 1.71e-05, Batch Time: 0.36s
+  Batch 550/767 (71.7%), Loss: 2.1438, LR: 1.71e-05, Batch Time: 0.36s
+  Batch 560/767 (73.0%), Loss: 1.8324, LR: 1.71e-05, Batch Time: 0.33s
+  Batch 570/767 (74.3%), Loss: 1.8708, LR: 1.71e-05, Batch Time: 0.34s
+  Batch 580/767 (75.6%), Loss: 2.2954, LR: 1.71e-05, Batch Time: 0.36s
+  Batch 590/767 (76.9%), Loss: 2.6140, LR: 1.71e-05, Batch Time: 0.35s
+  Batch 600/767 (78.2%), Loss: 3.1605, LR: 1.71e-05, Batch Time: 0.36s
+  Batch 610/767 (79.5%), Loss: 2.4688, LR: 1.71e-05, Batch Time: 0.36s
+  Batch 620/767 (80.8%), Loss: 1.8907, LR: 1.71e-05, Batch Time: 0.35s
+  Batch 630/767 (82.1%), Loss: 1.8630, LR: 1.71e-05, Batch Time: 0.35s
+  Batch 640/767 (83.4%), Loss: 2.8638, LR: 1.71e-05, Batch Time: 0.33s
+  Batch 650/767 (84.7%), Loss: 1.5928, LR: 1.71e-05, Batch Time: 0.35s
+  Batch 660/767 (86.0%), Loss: 2.6540, LR: 1.71e-05, Batch Time: 0.35s
+  Batch 670/767 (87.4%), Loss: 2.1649, LR: 1.71e-05, Batch Time: 0.36s
+  Batch 680/767 (88.7%), Loss: 3.2002, LR: 1.71e-05, Batch Time: 0.38s
+  Batch 690/767 (90.0%), Loss: 2.3757, LR: 1.71e-05, Batch Time: 0.33s
+  Batch 700/767 (91.3%), Loss: 2.5029, LR: 1.71e-05, Batch Time: 0.37s
+  Batch 710/767 (92.6%), Loss: 2.2307, LR: 1.71e-05, Batch Time: 0.36s
+  Batch 720/767 (93.9%), Loss: 3.1167, LR: 1.71e-05, Batch Time: 0.37s
+  Batch 730/767 (95.2%), Loss: 2.2719, LR: 1.71e-05, Batch Time: 0.38s
+  Batch 740/767 (96.5%), Loss: 2.5231, LR: 1.71e-05, Batch Time: 0.34s
+  Batch 750/767 (97.8%), Loss: 2.1566, LR: 1.71e-05, Batch Time: 0.36s
+  Batch 760/767 (99.1%), Loss: 2.3905, LR: 1.71e-05, Batch Time: 0.34s
+
+Epoch 9 完成:
+  训练损失: 2.2477
+  验证损失: 4.0362
+  当前学习率: 1.67e-05
+  Epoch时间: 4.6分钟
+  总训练时间: 0小时42分钟
+  验证指标:
+    stance_accuracy: 0.8000
+    stance_f1: 0.7763
+    harmfulness_accuracy: 0.7400
+    harmfulness_f1: 0.7234
+    fairness_accuracy: 0.7460
+    fairness_f1: 0.7479
+    intent_exact_match: 0.4320
+    intent_macro_f1: 0.6730
+    intent_Political_f1: 0.8205
+    intent_Economic_f1: 0.6963
+    intent_Psychological_f1: 0.4634
+    intent_Public_f1: 0.7117
+============================================================
+
+Epoch 10/40
+--------------------------------------------------
+  Batch 0/767 (0.0%), Loss: 1.9869, LR: 1.67e-05, Batch Time: 0.36s
+  Batch 10/767 (1.3%), Loss: 2.5688, LR: 1.67e-05, Batch Time: 0.33s
+  Batch 20/767 (2.6%), Loss: 3.0305, LR: 1.67e-05, Batch Time: 0.36s
+  Batch 30/767 (3.9%), Loss: 1.7083, LR: 1.67e-05, Batch Time: 0.36s
+  Batch 40/767 (5.2%), Loss: 1.3497, LR: 1.67e-05, Batch Time: 0.36s
+  Batch 50/767 (6.5%), Loss: 1.4820, LR: 1.67e-05, Batch Time: 0.37s
+  Batch 60/767 (7.8%), Loss: 1.3758, LR: 1.67e-05, Batch Time: 0.33s
+  Batch 70/767 (9.1%), Loss: 1.3934, LR: 1.67e-05, Batch Time: 0.36s
+  Batch 80/767 (10.4%), Loss: 2.2275, LR: 1.67e-05, Batch Time: 0.35s
+  Batch 90/767 (11.7%), Loss: 1.5922, LR: 1.67e-05, Batch Time: 0.37s
+  Batch 100/767 (13.0%), Loss: 1.5449, LR: 1.67e-05, Batch Time: 0.35s
+  Batch 110/767 (14.3%), Loss: 2.1960, LR: 1.67e-05, Batch Time: 0.35s
+  Batch 120/767 (15.6%), Loss: 1.7915, LR: 1.67e-05, Batch Time: 0.41s
+  Batch 130/767 (16.9%), Loss: 1.3979, LR: 1.67e-05, Batch Time: 0.34s
+  Batch 140/767 (18.3%), Loss: 2.9214, LR: 1.67e-05, Batch Time: 0.36s
+  Batch 150/767 (19.6%), Loss: 1.7938, LR: 1.67e-05, Batch Time: 0.34s
+  Batch 160/767 (20.9%), Loss: 1.9092, LR: 1.67e-05, Batch Time: 0.36s
+  Batch 170/767 (22.2%), Loss: 1.8566, LR: 1.67e-05, Batch Time: 0.35s
+  Batch 180/767 (23.5%), Loss: 1.4268, LR: 1.67e-05, Batch Time: 0.36s
+  Batch 190/767 (24.8%), Loss: 2.0377, LR: 1.67e-05, Batch Time: 0.36s
+  Batch 200/767 (26.1%), Loss: 1.7288, LR: 1.67e-05, Batch Time: 0.38s
+  Batch 210/767 (27.4%), Loss: 1.4581, LR: 1.67e-05, Batch Time: 0.37s
+  Batch 220/767 (28.7%), Loss: 1.9205, LR: 1.67e-05, Batch Time: 0.36s
+  Batch 230/767 (30.0%), Loss: 1.2812, LR: 1.67e-05, Batch Time: 0.36s
+  Batch 240/767 (31.3%), Loss: 1.4978, LR: 1.67e-05, Batch Time: 0.36s
+  Batch 250/767 (32.6%), Loss: 1.8381, LR: 1.67e-05, Batch Time: 0.36s
+  Batch 260/767 (33.9%), Loss: 2.7874, LR: 1.67e-05, Batch Time: 0.34s
+  Batch 270/767 (35.2%), Loss: 2.1520, LR: 1.67e-05, Batch Time: 0.36s
+  Batch 280/767 (36.5%), Loss: 1.7428, LR: 1.67e-05, Batch Time: 0.34s
+  Batch 290/767 (37.8%), Loss: 1.7762, LR: 1.67e-05, Batch Time: 0.36s
+  Batch 300/767 (39.1%), Loss: 2.2230, LR: 1.67e-05, Batch Time: 0.35s
+  Batch 310/767 (40.4%), Loss: 3.2414, LR: 1.67e-05, Batch Time: 0.36s
+  Batch 320/767 (41.7%), Loss: 2.1407, LR: 1.67e-05, Batch Time: 0.35s
+  Batch 330/767 (43.0%), Loss: 2.2873, LR: 1.67e-05, Batch Time: 0.36s
+  Batch 340/767 (44.3%), Loss: 2.4377, LR: 1.67e-05, Batch Time: 0.36s
+  Batch 350/767 (45.6%), Loss: 2.3865, LR: 1.67e-05, Batch Time: 0.34s
+  Batch 360/767 (46.9%), Loss: 2.8374, LR: 1.67e-05, Batch Time: 0.36s
+  Batch 370/767 (48.2%), Loss: 3.0666, LR: 1.67e-05, Batch Time: 0.34s
+  Batch 380/767 (49.5%), Loss: 2.0839, LR: 1.67e-05, Batch Time: 0.37s
+  Batch 390/767 (50.8%), Loss: 3.1817, LR: 1.67e-05, Batch Time: 0.36s
+  Batch 400/767 (52.2%), Loss: 1.9141, LR: 1.67e-05, Batch Time: 0.34s
+  Batch 410/767 (53.5%), Loss: 1.7141, LR: 1.67e-05, Batch Time: 0.36s
+  Batch 420/767 (54.8%), Loss: 1.5193, LR: 1.67e-05, Batch Time: 0.35s
+  Batch 430/767 (56.1%), Loss: 2.1756, LR: 1.67e-05, Batch Time: 0.36s
+  Batch 440/767 (57.4%), Loss: 1.6956, LR: 1.67e-05, Batch Time: 0.36s
+  Batch 450/767 (58.7%), Loss: 2.9031, LR: 1.67e-05, Batch Time: 0.33s
+  Batch 460/767 (60.0%), Loss: 2.2997, LR: 1.67e-05, Batch Time: 0.36s
+  Batch 470/767 (61.3%), Loss: 2.5307, LR: 1.67e-05, Batch Time: 0.35s
+  Batch 480/767 (62.6%), Loss: 1.3445, LR: 1.67e-05, Batch Time: 0.35s
+  Batch 490/767 (63.9%), Loss: 1.7790, LR: 1.67e-05, Batch Time: 0.36s
+  Batch 500/767 (65.2%), Loss: 2.7608, LR: 1.67e-05, Batch Time: 0.36s
+  Batch 510/767 (66.5%), Loss: 1.9294, LR: 1.67e-05, Batch Time: 0.36s
+  Batch 520/767 (67.8%), Loss: 2.1852, LR: 1.67e-05, Batch Time: 0.38s
+  Batch 530/767 (69.1%), Loss: 2.1161, LR: 1.67e-05, Batch Time: 0.35s
+  Batch 540/767 (70.4%), Loss: 1.8186, LR: 1.67e-05, Batch Time: 0.37s
+  Batch 550/767 (71.7%), Loss: 1.7268, LR: 1.67e-05, Batch Time: 0.38s
+  Batch 560/767 (73.0%), Loss: 1.0271, LR: 1.67e-05, Batch Time: 0.38s
+  Batch 570/767 (74.3%), Loss: 1.8298, LR: 1.67e-05, Batch Time: 0.35s
+  Batch 580/767 (75.6%), Loss: 1.7090, LR: 1.67e-05, Batch Time: 0.37s
+  Batch 590/767 (76.9%), Loss: 2.0730, LR: 1.67e-05, Batch Time: 0.36s
+  Batch 600/767 (78.2%), Loss: 1.6500, LR: 1.67e-05, Batch Time: 0.34s
+  Batch 610/767 (79.5%), Loss: 1.9682, LR: 1.67e-05, Batch Time: 0.37s
+  Batch 620/767 (80.8%), Loss: 1.5302, LR: 1.67e-05, Batch Time: 0.36s
+  Batch 630/767 (82.1%), Loss: 2.7576, LR: 1.67e-05, Batch Time: 0.35s
+  Batch 640/767 (83.4%), Loss: 2.6436, LR: 1.67e-05, Batch Time: 0.36s
+  Batch 650/767 (84.7%), Loss: 1.7917, LR: 1.67e-05, Batch Time: 0.34s
+  Batch 660/767 (86.0%), Loss: 2.1968, LR: 1.67e-05, Batch Time: 0.36s
+  Batch 670/767 (87.4%), Loss: 2.1998, LR: 1.67e-05, Batch Time: 0.35s
+  Batch 680/767 (88.7%), Loss: 1.8770, LR: 1.67e-05, Batch Time: 0.37s
+  Batch 690/767 (90.0%), Loss: 2.0797, LR: 1.67e-05, Batch Time: 0.36s
+  Batch 700/767 (91.3%), Loss: 2.0515, LR: 1.67e-05, Batch Time: 0.34s
+  Batch 710/767 (92.6%), Loss: 1.5521, LR: 1.67e-05, Batch Time: 0.37s
+  Batch 720/767 (93.9%), Loss: 2.4795, LR: 1.67e-05, Batch Time: 0.36s
+  Batch 730/767 (95.2%), Loss: 1.1673, LR: 1.67e-05, Batch Time: 0.36s
+  Batch 740/767 (96.5%), Loss: 1.3294, LR: 1.67e-05, Batch Time: 0.36s
+  Batch 750/767 (97.8%), Loss: 1.8101, LR: 1.67e-05, Batch Time: 0.34s
+  Batch 760/767 (99.1%), Loss: 1.9944, LR: 1.67e-05, Batch Time: 0.36s
+
+Epoch 10 完成:
+  训练损失: 2.0553
+  验证损失: 4.3787
+  当前学习率: 1.62e-05
+  Epoch时间: 4.6分钟
+  总训练时间: 0小时47分钟
+  验证指标:
+    stance_accuracy: 0.8000
+    stance_f1: 0.7817
+    harmfulness_accuracy: 0.7340
+    harmfulness_f1: 0.7341
+    fairness_accuracy: 0.7780
+    fairness_f1: 0.7686
+    intent_exact_match: 0.4320
+    intent_macro_f1: 0.6761
+    intent_Political_f1: 0.8346
+    intent_Economic_f1: 0.6720
+    intent_Psychological_f1: 0.4984
+    intent_Public_f1: 0.6994
+🎉 Psychological_fulfillment F1提升到: 0.4984
+✓ 保存最佳模型!
